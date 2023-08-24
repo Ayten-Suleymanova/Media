@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.container {
+  background-color: blue;
+  display: flex;
+  padding-left: 0;
+  color: white;
+  padding: 10px;
+  flex-direction: column;
+}
+.container .text {
+  font-size: 20px;
+}
+
+.cards {
+  display: flex;
+  padding-left: 60px;
+}
+
+.card1 {
+  flex: 33%;
+}
+
+.card2 {
+  flex: 33%;
+}
+
+.card3 {
+  flex: 33%;
+}/*# sourceMappingURL=style.css.map */
